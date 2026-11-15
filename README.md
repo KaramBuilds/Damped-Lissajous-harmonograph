@@ -3,6 +3,7 @@
 A physics-based parametric curve generator written in Python using `NumPy` and `Matplotlib`. It simulates two perpendicular damped pendulums losing energy over time to friction—created to generate my custom GitHub profile avatar from scratch.
 
 ![Generated Harmonograph](Figure_1.png)
+![Generated Harmonograph](Figure_2.png)
 
 ## Prerequisites
 Make sure you have Python installed along with `numpy` and `matplotlib`:
