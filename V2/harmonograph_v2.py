@@ -35,4 +35,5 @@ def update(frame):
 anim = FuncAnimation(fig, update, frames=total_frames, interval=1000/fps, blit = True)
 
 anim.save('harmonograph_anim.gif', writer=PillowWriter(fps=fps), dpi = 100)
+
 print("Done!")
